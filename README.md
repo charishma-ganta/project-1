@@ -23,4 +23,7 @@ This project uses **only HTML and CSS** and does not include JavaScript or exter
 - Simple responsive design
 - Clean and readable code structure
 
+  ## live website link
+   https://charishma-ganta.github.io/project-1/
+
 
